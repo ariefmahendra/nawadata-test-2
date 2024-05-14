@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=10543A42_002D5E13_002D4A31_002D8163_002DD171DBE72302/@EntryIndexedValue">10543A42-5E13-4A31-8163-D171DBE72302</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestTemplateMapping/=xUnit/@EntryIndexedValue">33ff99d8-b1ad-4ed5-a4fd-376b97c2c841</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8afda83d_002Da730_002D4c09_002Da066_002D3d18d0b7df7a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestSumWordsSuccess #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::839FF1CF-47D0-4D39-8AE2-89FED212EC51::net8.0::NawadataConsoleApp.Tests.SumWordsTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::839FF1CF-47D0-4D39-8AE2-89FED212EC51::net8.0::NawadataConsoleApp.Tests.MaxNumberTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::839FF1CF-47D0-4D39-8AE2-89FED212EC51::net8.0::NawadataConsoleApp.Tests.AscSortTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::839FF1CF-47D0-4D39-8AE2-89FED212EC51::net8.0::NawadataConsoleApp.Tests.SortTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::839FF1CF-47D0-4D39-8AE2-89FED212EC51::net8.0::NawadataConsoleApp.Tests.MaxCharacterTest.TestMaxCharacterSuccess&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::839FF1CF-47D0-4D39-8AE2-89FED212EC51::net8.0::NawadataConsoleApp.Tests.MaxCharacterTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9dc1f895_002Df0ae_002D4fdf_002D8352_002Db29ff2b690d0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestSumWordsSuccess" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::839FF1CF-47D0-4D39-8AE2-89FED212EC51::net8.0::NawadataConsoleApp.Tests.SumWordsTest.TestSumWordsSuccess&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
